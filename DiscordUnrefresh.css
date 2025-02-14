@@ -63,3 +63,18 @@
 	top: 32px;
 	left: -32px;
 }
+
+/** fix editing messages **/
+.operations_bab751 {
+	position: relative;
+	top: 34px;
+}
+
+.contents_c19a55 .channelTextArea__5126c {
+	margin-bottom: 16px;
+}
+
+.contents_c19a55 .slateTextArea_ec4baf {
+	width: calc(100% - 32px);
+	left: 0px;
+}
