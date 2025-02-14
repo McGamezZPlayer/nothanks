@@ -1,0 +1,65 @@
+/** change profile bar **/
+
+.visual-refresh .panels_c48ade {
+	border-radius: 0px;
+	left: 72px;
+	bottom: 0px;
+	width: calc(100% - 72px);
+}
+
+/** guilds list **/
+.visual-refresh .wrapper_ef3116 {
+	margin-bottom: 0px;
+}
+
+/** play again and dividers **/
+.container__675e5 {
+	display: none;
+}
+
+.visual-refresh .sectionDivider__35e86 {
+	display: none;
+}
+
+.visual-refresh .privateChannelsHeaderContainer__99e7c {
+	margin-top: 24px;
+}
+/** chat bar (dear god, help me) **/
+
+.visual-refresh-chat-input .channelBottomBarArea_f75fb0 {
+	height: calc(100% - 10px);
+	position: relative;
+	bottom: 10px;
+}
+
+.visual-refresh-chat-input .accessoryBar__74017 {
+	height: 0px;
+	padding: 0px;
+	border-top-width: 0px;
+}
+
+.accessoryBarRight__74017 {
+	position: absolute;
+	bottom: 24px;
+}
+
+.accessoryBarLeft__74017 {
+	position: relative;
+	bottom: 24px;
+}
+
+.placeholder__1b31f {
+	width: calc(100% - 216px);
+	left: 28px;
+}
+
+.slateTextArea_ec4baf {
+	width: calc(100% - 216px);
+	left: 28px;
+}
+
+.visual-refresh-chat-input .base_b88801 {
+	position: relative;
+	top: 32px;
+	left: -32px;
+}
